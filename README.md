@@ -13,6 +13,7 @@ Repository containing public data of numerous cosmic ray, gamma-ray and neutrino
 #### HAWC
 #### IceCube (IceTop)
 #### KASCADE (KASCADE-Grande)
+#### LHAASO
 #### NUCLEON
 #### PAMELA
 #### Pierre Auger
