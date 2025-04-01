@@ -9,12 +9,13 @@ Repository containing public data of numerous cosmic ray, gamma-ray and neutrino
 #### CALET
 #### CREAM
 #### DAMPE
-#### GRAPES
+#### GRAPES-3
 #### HAWC
 #### IceCube (IceTop)
-#### KASCADE
+#### KASCADE (KASCADE-Grande)
 #### NUCLEON
 #### PAMELA
 #### Pierre Auger
-#### TUNKA
+#### TAIGA (Tunka)
+#### Tibet 
 
