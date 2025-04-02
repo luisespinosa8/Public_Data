@@ -1,6 +1,6 @@
 # Public Data
 
-### * References of all data sets are included in their respective folder!
+### * References of all data sets are included in their respective file!
 
 ## Cosmic Ray experiments:
 #### AMS-02
