@@ -1,3 +1,5 @@
+# Z. Cao et al. (2024) Phys. Rev. Lett. 132, 131002
+# [0] Energy	[1] lnA	[2] Lower Stat Error	[3] Upper Stat Error	[4] Lower Syst Error	[5] Upper Syst Error
 3.548e+05 1.756e+00 5.000e-04 5.000e-04 9.150e-02 9.150e-02
 4.467e+05 1.722e+00 6.000e-04 6.000e-04 9.150e-02 9.150e-02
 5.623e+05 1.670e+00 7.000e-04 7.000e-04 9.090e-02 9.090e-02
